@@ -86,11 +86,11 @@ mod tests {
             questions: vec![
                 Question {
                     limit: 750,
-                    type_str: "yukicoder".to_string(),
+                    type_str: "_yukicoder".to_string(),
                 },
                 Question {
                     limit: 749,
-                    type_str: "yukicoder".to_string(),
+                    type_str: "_yukicoder".to_string(),
                 },
             ],
         };
@@ -112,7 +112,7 @@ mod tests {
                 },
                 Question {
                     limit: 29183,
-                    type_str: "yukicoder".to_string(),
+                    type_str: "_yukicoder".to_string(),
                 },
                 Question {
                     limit: 1,

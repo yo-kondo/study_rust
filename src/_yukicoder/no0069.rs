@@ -61,7 +61,7 @@ mod tests {
     fn same_test4() {
         assert_eq!(
             "YES",
-            same("yukicoder".to_string(), "yukicoder".to_string())
+            same("_yukicoder".to_string(), "_yukicoder".to_string())
         );
     }
 

@@ -1,0 +1,17 @@
+[package]
+name = "yukicoder001"
+version = "0.1.0"
+authors = ["y-kondo"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[[bin]]
+name = "no0005"
+path = "src/no0005.rs"
+
+[[bin]]
+name = "no0018"
+path = "src/no0018.rs"
