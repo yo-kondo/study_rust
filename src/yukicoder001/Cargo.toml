@@ -11,7 +11,48 @@ edition = "2018"
 [[bin]]
 name = "no0005"
 path = "src/no0005.rs"
-
 [[bin]]
 name = "no0018"
 path = "src/no0018.rs"
+[[bin]]
+name = "no0021"
+path = "src/no0021.rs"
+[[bin]]
+name = "no0024"
+path = "src/no0024.rs"
+[[bin]]
+name = "no0026"
+path = "src/no0026.rs"
+[[bin]]
+name = "no0029"
+path = "src/no0029.rs"
+[[bin]]
+name = "no0032"
+path = "src/no0032.rs"
+[[bin]]
+name = "no0035"
+path = "src/no0035.rs"
+[[bin]]
+name = "no0046"
+path = "src/no0046.rs"
+[[bin]]
+name = "no0048"
+path = "src/no0048.rs"
+[[bin]]
+name = "no0056"
+path = "src/no0056.rs"
+[[bin]]
+name = "no0063"
+path = "src/no0063.rs"
+[[bin]]
+name = "no0069"
+path = "src/no0069.rs"
+[[bin]]
+name = "no0070"
+path = "src/no0070.rs"
+[[bin]]
+name = "no0079"
+path = "src/no0079.rs"
+[[bin]]
+name = "no0082"
+path = "src/no0082.rs"
