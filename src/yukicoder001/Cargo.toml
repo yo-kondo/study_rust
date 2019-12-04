@@ -56,3 +56,21 @@ path = "src/no0079.rs"
 [[bin]]
 name = "no0082"
 path = "src/no0082.rs"
+[[bin]]
+name = "no0104"
+path = "src/no0104.rs"
+[[bin]]
+name = "no0113"
+path = "src/no0113.rs"
+[[bin]]
+name = "no0116"
+path = "src/no0116.rs"
+[[bin]]
+name = "no0128"
+path = "src/no0128.rs"
+[[bin]]
+name = "no0135"
+path = "src/no0135.rs"
+[[bin]]
+name = "no0138"
+path = "src/no0138.rs"
